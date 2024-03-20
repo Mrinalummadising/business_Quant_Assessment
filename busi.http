@@ -1,0 +1,12 @@
+
+
+GET http://localhost:3000/date
+###
+
+GET http://localhost:3000/stocks/ticker=:ticker
+###
+
+GET http://localhost:3000/stocks/revenue=:revenue
+###
+
+GET http://localhost:3000/stocks/ticker=:ticker/revenue=:revenue
